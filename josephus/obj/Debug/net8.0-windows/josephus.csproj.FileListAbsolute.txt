@@ -1,0 +1,16 @@
+C:\Users\gurka\source\repos\josephus\josephus\bin\Debug\net8.0-windows\josephus.exe
+C:\Users\gurka\source\repos\josephus\josephus\bin\Debug\net8.0-windows\josephus.deps.json
+C:\Users\gurka\source\repos\josephus\josephus\bin\Debug\net8.0-windows\josephus.runtimeconfig.json
+C:\Users\gurka\source\repos\josephus\josephus\bin\Debug\net8.0-windows\josephus.dll
+C:\Users\gurka\source\repos\josephus\josephus\bin\Debug\net8.0-windows\josephus.pdb
+C:\Users\gurka\source\repos\josephus\josephus\obj\Debug\net8.0-windows\josephus.Form1.resources
+C:\Users\gurka\source\repos\josephus\josephus\obj\Debug\net8.0-windows\josephus.csproj.GenerateResource.cache
+C:\Users\gurka\source\repos\josephus\josephus\obj\Debug\net8.0-windows\josephus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurka\source\repos\josephus\josephus\obj\Debug\net8.0-windows\josephus.AssemblyInfoInputs.cache
+C:\Users\gurka\source\repos\josephus\josephus\obj\Debug\net8.0-windows\josephus.AssemblyInfo.cs
+C:\Users\gurka\source\repos\josephus\josephus\obj\Debug\net8.0-windows\josephus.csproj.CoreCompileInputs.cache
+C:\Users\gurka\source\repos\josephus\josephus\obj\Debug\net8.0-windows\josephus.dll
+C:\Users\gurka\source\repos\josephus\josephus\obj\Debug\net8.0-windows\refint\josephus.dll
+C:\Users\gurka\source\repos\josephus\josephus\obj\Debug\net8.0-windows\josephus.pdb
+C:\Users\gurka\source\repos\josephus\josephus\obj\Debug\net8.0-windows\josephus.genruntimeconfig.cache
+C:\Users\gurka\source\repos\josephus\josephus\obj\Debug\net8.0-windows\ref\josephus.dll
