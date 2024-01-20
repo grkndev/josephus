@@ -8,6 +8,7 @@ Visual Studio 2022<br />
 Windows Form App<br />
 </h2>
 </div>
-
-  <video src='http://streamable.com/e/m5wfur?nocontrols=1' width=1280 height=720 />
+<h2>Example<br />
+  
+  [Twitter](https://twitter.com/GweepCreative/status/1748778267438403767)
 </div>
